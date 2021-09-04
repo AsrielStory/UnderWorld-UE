@@ -1222,3 +1222,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.03-21.59.32:456][332]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.03-21.59.32:456][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.09.03-21.59.32:456][332]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.03-22.33.22:559][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.03-22.33.23:260][622]LogSlate: Window 'UnderWorld - Unreal Editor' being destroyed
+[2021.09.03-22.33.24:104][623]Cmd: QUIT_EDITOR
+[2021.09.03-22.33.24:105][623]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.09.03-22.33.24:247][623]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.09.03-22.33.24:490][623]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.09.03-22.33.24:490][623]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.09.03-22.33.24:524][623]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2021.09.03-22.33.24:666][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.03-22.33.24:669][623]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.03-22.33.24:726][623]LogAudio: Display: Audio Device Manager Shutdown
+[2021.09.03-22.33.24:732][623]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.03-22.33.24:743][623]LogExit: Preparing to exit.
+[2021.09.03-22.33.25:453][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.09.03-22.33.27:151][623]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.03-22.33.27:527][623]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.09.03-22.33.28:304][623]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.09.03-22.33.28:339][623]LogExit: Editor shut down
+[2021.09.03-22.33.28:538][623]LogExit: Transaction tracking system shut down
